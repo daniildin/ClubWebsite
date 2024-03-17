@@ -4,7 +4,7 @@ Welcome to the Borough of Manhattan Community College Programming Club's website
 For a list of current goals, feel free to look at the issues, and consider joining our Github Organization (Club Members/Alumni only). Before contributing, please read and follow the steps outlined in the contribution section.
 If you are interested in contributing, that is great!
 
-Here you'll find out how you can contribute to this project, including the steps for making contributions and some resources to study if you're unfamiliar with this process or some of the terminology. You can go [here](# More Resources) to find explanations for why we'd like you to follow each step when making contributions.
+Here you'll find out how you can contribute to this project, including the steps for making contributions and some resources to study if you're unfamiliar with this process or some of the terminology. You can go [here](#More-Resources) to find explanations for why we'd like you to follow each step when making contributions.
 
 # How can I contribute?
 1. Check to see if there are any open issues. If not, you can suggest something you'd like to work on. 
