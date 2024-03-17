@@ -39,10 +39,10 @@ Push to your remote branch.
 Your changes should now be updated in the pull request.
 
 # More Resources
-Here are a few resources to learn the main ideas behind contributing. These are important concepts to understand because they are extremely relevant to professional development and when you are comfortable with them they will make development of your own programs much more organized. Don't be worried that it is confusing, most of the concepts will make a lot of sense when you read how they work and then use them yourself.
+Here are a few resources to learn the main ideas behind contributing. We will be covering this during club meetings, so don't feel detered from reaching out and asking questions!
 
 Learning about git in general:
-[w3schools](https://www.w3schools.com/git/default.asp) has a great walkthrough for beginners! 
+[W3schools](https://www.w3schools.com/git/default.asp) has a great walkthrough for beginners! 
 Pro Git: This is a book that really covers just about everything. Don't feel the need to read through it, but it might be best to use it as a reference to look up things you don't know.
 Consider downloading the Github Desktop App. If you're totally unfamiliar with the command line and the commands themselves, this is a useful tool to make the basics a little more beginner friendly. Make sure that you still study the concepts though so you understand what you're doing.
 GitKraken is similar very powerful tool. I have no experience with it personally but the visualizer seems quite useful and it is free for students.
