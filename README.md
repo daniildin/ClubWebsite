@@ -43,5 +43,7 @@ Here are a few resources to learn the main ideas behind contributing. We will be
 
 Learning about git in general:
 [W3schools](https://www.w3schools.com/git/default.asp) has a great walkthrough for beginners! 
+
 Pro Git: This is a book that really covers just about everything. Don't feel the need to read through it, but it might be best to use it as a reference to look up things you don't know.
+
 Consider downloading the Github Desktop App. If you're totally unfamiliar with the command line and the commands themselves, this is a useful tool to make the basics a little more beginner friendly. Make sure that you still study the concepts though so you understand what you're doing.
